@@ -13,7 +13,6 @@ using Content.Goobstation.Shared.Clothing;
 using Content.Goobstation.Shared.Devil;
 using Content.Goobstation.Shared.Flashbang;
 using Content.Goobstation.Shared.Grab;
-using Content.Goobstation.Shared.Security.ContrabandIcons.Components;
 using Content.Goobstation.Shared.Stunnable;
 using Content.Shared._Goobstation.Wizard.Chuuni;
 using Content.Shared._White.Standing;
