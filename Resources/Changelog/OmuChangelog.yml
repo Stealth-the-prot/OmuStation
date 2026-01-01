@@ -1665,3 +1665,11 @@ Entries:
   changes: []
   id: 203
   time: '2026-01-01T20:50:46.0000000+00:00'
+- author: Delphine
+  changes:
+    - type: Fix
+      message: >-
+        The Chef Engineer has been fired and replaced with a Chief Engineer. We
+        apologize for any inconvenience caused.
+  id: 204
+  time: '2026-01-01T20:51:33.0000000+00:00'
